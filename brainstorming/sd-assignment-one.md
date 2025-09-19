@@ -24,7 +24,7 @@ The changes described above pave the way forward for other alterations that are 
 
 As it stands, I find it difficult to find another technology comparable to AI in terms of far-reaching consequences and output, and therefore it is my speculation that the hegemony AI displays over the industry and the world at large will continue to exert itself. Given the interest in making the tech more eco friendly, I also believe it will become less costly to train, operate, and get access to, leading to more usage.
 
-The role of software developers will continue to shift from "person writing a piece of code" to "overseer of AI-written code". The trend of importance placed more on verifying code rather than writing it with grow, along with the increased need of great communication skills for better AI prompting and corporate communications.
+The role of software developers will continue to shift from "person writing a piece of code" to "overseer of AI-written code". The trend of importance placed more on verifying code rather than writing it will grow, along with the increased need of great communication skills for better AI prompting and corporate communications.
 
 The fact that cloud computing platforms are mostly controlled by a few monumental companies could give way to a sinister domino effect that may result in a large amount of infrastructure being broken / lost. An example of this is listed in this article from Investopedia[7], where they discuss why such an oligopoly is capable of resulting in great problems.
 
